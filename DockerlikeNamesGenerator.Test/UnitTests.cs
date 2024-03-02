@@ -1,4 +1,4 @@
-namespace DockerlikeNamesGenerator.Test;
+namespace NamesGenerator.Test;
 
 public class UnitTests
 {

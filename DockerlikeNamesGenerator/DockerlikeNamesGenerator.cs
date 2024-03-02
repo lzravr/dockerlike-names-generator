@@ -1,4 +1,4 @@
-﻿namespace DockerlikeNamesGenerator;
+﻿namespace NamesGenerator;
 public static class DockerlikeNamesGenerator
 {
     public static string GenerateName()

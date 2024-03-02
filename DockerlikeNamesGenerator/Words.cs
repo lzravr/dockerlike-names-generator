@@ -1,4 +1,4 @@
-﻿namespace DockerlikeNamesGenerator;
+﻿namespace NamesGenerator;
 internal static class Words
 {
     internal static string[] Left = new string[]
