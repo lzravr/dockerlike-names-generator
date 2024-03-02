@@ -9,6 +9,16 @@
     <Description>A semi-random dockerlike name generator.</Description>
     <PackageProjectUrl>https://github.com/lzravr/dockerlike-names-generator</PackageProjectUrl>
     <RepositoryUrl>https://github.com/lzravr/dockerlike-names-generator</RepositoryUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageTags>.NET 7.0</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
