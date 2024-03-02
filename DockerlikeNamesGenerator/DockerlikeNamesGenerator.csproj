@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Dockerlike Names Generator</Title>
+    <Authors>Lazar Avramovic</Authors>
+    <Description>A semi-random dockerlike name generator.</Description>
+    <PackageProjectUrl>https://github.com/lzravr/dockerlike-names-generator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lzravr/dockerlike-names-generator</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
